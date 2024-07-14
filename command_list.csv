@@ -1,0 +1,54 @@
+    1  git config --global user.name "Тетяна Гюнсевер"
+    2  git config --global user.email tetiana.gunsever@icloud.com
+    3  git clone https://github.com/TetianaGunsever11/HW_10.git
+    4  ~/Desktop/git/HW_10
+    5  touch text_ignore.txt
+    6  nano .gitignor
+    7  git status text_ignor.txt
+    8  git add
+    9  commit
+   10  git add.
+   11  git add .
+   12  git status
+   13  git commit
+   14  git commit .
+   15  touch main_test.txt
+   16  git add .
+   17  touch HW_10 main_test.txt
+   18  git add . 
+   19  commit
+   20  git commit 
+   21  git commit .
+   22  git checkout -b develop
+   23  cd HW_10
+   24  touch text_ignore.txt
+   25  nano .gitignore
+   26  git status
+   27  git add .
+   28  commit
+   29  git commit
+   30  touch main_test.txt
+   31  git add .
+   32  git commit .
+   33  git branch develop
+   34  git checkout develop
+   35  touch develop_test.txt
+   36  git add .
+   37  commit .
+   38  commit
+   39  commit
+   40  git checkout -b develop
+   41  touch develop_test.txt
+   42  git add . 
+   43  git commit .
+   44  nano develop_test.txt
+   45  git add . 
+   46  git commit
+   47  gıt checkout -b maın
+   48  git checkout -b main
+   49  git checkout main
+   50  git merge developer
+   51  git merge master
+   52  git checkout developer
+   53  git log
+   54  history > command_list.csv
